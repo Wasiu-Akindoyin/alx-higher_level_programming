@@ -1,0 +1,1 @@
+This is a readme file on 0x01. Python - if/else, loops, functions projcet in ALX Software Engineering Programme.
