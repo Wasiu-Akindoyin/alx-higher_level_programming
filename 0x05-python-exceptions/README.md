@@ -1,0 +1,1 @@
+This is a readme file on 0x05. Python - Exceptions in ALX Software Engineering Programme by Wasiu Olanrewaju Akindoyin from Cohort 9.
