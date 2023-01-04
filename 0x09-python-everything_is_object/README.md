@@ -1,0 +1,1 @@
+This is a readme file on 0x09. Python - Everything is object in ALX Software Engineering Program by Wasiu Olanrewaju Akindoyin from Cohort 9.
