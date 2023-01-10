@@ -1,9 +1,15 @@
 #!/usr/bin/python3
-'''task 2 module'''
+"""
+Module for append_write method.
+"""
 
 
 def append_write(filename="", text=""):
-    '''appends text to a file'''
-    with open(filename, mode='a', encoding='utf-8') as f:
-        len = f.write(text)
-    return 
+    """append_write appends string at the end of a text file.
+    Args:
+        filename (str): name of file.
+            text (str): text to be appended to the file.
+        Returns: number of characters written.
+    """
+    with open(filename, "a", encoding='utf-8') as a_file:
+        return a_file.write(text)
