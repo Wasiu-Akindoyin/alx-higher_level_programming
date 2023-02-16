@@ -1,0 +1,1 @@
+This is a README file on 0x0E. SQL - More queries in ALX Software Engineering Program by Wasiu Olanrewaju Akindoyin from cohort 9. 
